@@ -2,11 +2,25 @@
 
 A safer way to APM by providing an API instead of hooking into everything. Built for your custom deployment, no registration to a cloud service required.
 
-## Goal
+## Goals
 
-To give users more control for their custom hosted APM this project (soon) provides a configurable APM solution.
-While you will have more work by actively including the API, you will also have the freedom to configure and stay in control.
-Make your APM GDPR (or other regulations) compliant by defining your rules of tracing.
+##### Standards
+
+Use and support standards where possible. Internally this means to use code quality standards or consider standards of security.
+Externally this means to support devs in making their APM GDPR (or other regulations) compliant by defining your rules of tracing. Define the level of anonymization and pseudonymisation.
+
+##### Advanced control
+
+Give users more control for their custom hosted APM. While devs will have more work by actively including the API, they will also have the freedom to configure and stay in control.
+
+##### Freedom and felxibility
+
+It should be easy to integrate, change and scale this service. However, devs should have the freedom to choose how to deploy and run this service.
+
+##### Economical and ecological
+
+The project and the package should aim to use as few code, space, memory and cpu as possible.
+
 
 ## How it works
 
