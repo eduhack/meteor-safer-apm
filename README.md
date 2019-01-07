@@ -15,12 +15,15 @@ Give users more control for their custom hosted APM. While devs will have more w
 
 ##### Freedom and felxibility
 
-It should be easy to integrate, change and scale this service. However, devs should have the freedom to choose how to deploy and run this service.
+Devs should have the freedom to choose how to deploy and operate this service as much as possible.
 
-##### Economical and ecological
+##### Ease of integration
+
+It should be easy to integrate, change and scale this service.
+
+##### Resources
 
 The project and the package should aim to use as few code, space, memory and cpu as possible.
-
 
 ## How it works
 
